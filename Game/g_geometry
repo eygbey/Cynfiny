@@ -1,0 +1,7 @@
+typedef struct
+{
+	float* mem;
+
+	int used;
+	int capacity;
+} GeometryCreator;
